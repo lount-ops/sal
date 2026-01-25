@@ -1,18 +1,17 @@
 ---
 baseURL: https://shitass.life/
-languageCode: en-us
+languageCode: en-US
 title: A New Breed of Government
 theme: "hello-4s3ti"
 
 languages:
-  en-us:
-    weight: 1
-    languageName: "English"
-  pt-pt:
-    weight: 2
-    params:
-      backgroundImage: "../static/ice-kills.webp"
-
+  en:
+    disabled: false
+    languageCode: 'en-US'
+    languageDirection: ''
+    languageName: 'English'
+    title: ''
+    weight: 0
 
 params:
   version: "dev"
@@ -41,9 +40,7 @@ params:
     copyright: true
     topText: ["Positive Change Can Happen"]
     bottomText: [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "with <a href=\"https://github.com/coolapso/
-      hugo-theme-hello-4s3ti\">Hello-friend-4s3ti</a>",
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
     ]
 menu:
   main:
