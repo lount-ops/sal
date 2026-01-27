@@ -18,14 +18,23 @@ series = ["Weird Scenes in the USA"]
   name = "winstonsmith"
 +++
 
-Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.
+## The Shitass Parade
 
-This document is a brief primer on using Go templates. The [Go docs][gohtmltemplate]
-provide more details.
+Week of Jan 25th - 31st:
 
-## Introduction to Go Templates
+ICE Barbie.
+K. Noem is seemingly, a horrid person. She is a blatant liar, on air, for all to witness.
+Hides behind god? Check!
+Knows absolutely nothing about the law? Check!
+Will do anything for Donald Trump that serves her greed? Check!
+
+#### Cos-Play Time Anyone?
+{{< figure
+  src="/static/iceBarbie.jpg"
+  alt="ICE Barbie Queen"
+  caption="Noem and Lewandowski sitting in a sty. Corey blew his wad, into Kristy's eye. She threw a fucking fit, and ran away, but Corey really runs the show on the day to day."
+  class="ma0 w-50"
+>}}
+
+Yeah, that's one real winner.
+
