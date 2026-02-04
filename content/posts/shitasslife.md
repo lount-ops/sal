@@ -1,40 +1,33 @@
 ---
 author:
-  name: "Bob"
+  name: "winstonsmith"
 date: 2026-01-24
 linktitle: A Shitass Life
 type:
 - post
 - posts
 title: A Shitass Life
-weight: 10
+weight: "9"
 series:
 - ShitassLife
 ---
-## Facist Shitass Cowards
-Led by "Little Big" Bovino, Company Man, the Christian Nationalists Thug; The modern iteration of ICE and CBP are insane.
-I just love transform.Emojify:customs: and transform.Emojify:passpost-control:!
-### Quite obviously insane.
-### Who the fuck poses for a picture like this?
+## Murder Crew
+
+### ICE? BORTAC?, The Government murders Alex Pretti, from behind, while he is on hands and knees.
 {{< figure
-  src="/static/bigDick.jpg"
-  alt="The Roaming Asshat in Charge"
-  caption="Bovino is reported to be the guy who tells everyone to be scared. He then lets you know, he's the only one that can save you."
+  src="/static/ice-kills.jpg"
+  alt="The Murder Crew"
+  caption="RIP Alex Pretti."
   class="ma0 w-50"
 >}}
-## The Runt got moved, because he lies like a rug.
-Too bad he'll likely get to keep pension and get qualified immunity for attempted cover up of blatant homicide.
+UPDATE: **The Runt**  got moved, because he lies like a goddamned rug.
+Too bad he'll likely get to keep pension and get qualified immunity for attempted cover up of Pretti's murder.
 
-Cos-play doesn't fucking cut it. The social network aspect aside, the out in the open fear-mongering via military style kit (tacti-cool!) is about as unserious and pathetic as it gets. It's straight up make-believe to wear military style bullshit inside the United States and it's not, a fucking war.
+## We all knew Bovino is a real, cee u next tuesday, sort.
+What's lying to cover murder up, for The Runt?
 
-## We all knew Bovino is a real, see ya next tuesday sort.
+The public backlash causing The 'ol Runt-o-rooni to flee? I don't think it'll impact the administration's **"Fear of the Other Tour, 2026"**. Stephen Miller is some kinda far-out goddamned ghoul who thrives on this shit. His strident, freakish yammering about white replacement due to liberalism? It's completely inline with the ["November Criminals"](https://en.wikipedia.org/wiki/Stab-in-the-back_myth) horseshit a certain wretched Austrian corporal latched onto all those years ago. 
 
-Always with the, "You aren't safe" horseshit. Rapidly and weirdly mouthed follow up of, "I'm the only one who can protect you!"
+Cowards can [run on](https://www.youtube.com/watch?v=IStlBOX9F4o) for a long time, but it all comes out in the open.
 
-The public backlash causing the Runt to flee, is going to push their stupid money wasting agenda to the down-low (as much as the possibly can). Hopefully, we can keep eyes on it.
-
-You can run on for a long time... (RIP Mr. Cash)
-
-Yeah, you can [run on](https://www.youtube.com/watch?v=IStlBOX9F4o) for a long time, no matter what you believe, it all comes out in the open. That's god/the-universe, cutting you down.
-
-Aloha nui loa.
+I hope the the [eight people](https://www.theguardian.com/us-news/2026/jan/28/deaths-ice-2026-) who have died in 2026, in the name of stopping "white replacement", are the last. Doesn't life matter to us?  

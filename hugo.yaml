@@ -1,10 +1,8 @@
 ---
 baseURL: https://shitass.life/
 languageCode: en-US
-title: A New Breed of Government
+title: A World Full of Shitasses
 theme: "hello-4s3ti"
-enable:Emoji: true
-
 languages:
   en:
     disabled: false
@@ -13,7 +11,6 @@ languages:
     languageName: 'English'
     title: ''
     weight: 0
-
 params:
   version: "dev"
   author:
@@ -30,11 +27,12 @@ params:
   fontAwesome:
     all: true
   logo:
-    logoText: "it's a shitass life"
+    logoText: "It's a shitass life"
     logoCursorColor: "#ffffff"
+  enableEmoji: true
   footer:
     showVersion: true
-    socialIcons: true
+    socialIcons: false
     author: true
     rss: true
     trademark: true
@@ -47,7 +45,7 @@ menu:
   main:
     - identifier: "about"
       name: "About"
-      url: "#"
+      url: "/about"
       weight: 2
 
     - identifier: "posts"
@@ -57,3 +55,5 @@ menu:
 
     - identifier: "tools"
       name: "Tools"
+      url: "/tools"
+      weight: 3

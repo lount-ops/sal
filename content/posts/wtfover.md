@@ -8,7 +8,7 @@ tags = [
     "p2026",
     "thefix",
 ]
-date = "2014-04-02"
+date = "2026-01-27"
 categories = [
     "Outlaws",
     "Enablers",
@@ -16,6 +16,7 @@ categories = [
 series = ["Weird Scenes in the USA"]
 [ author ]
   name = "winstonsmith"
+weight = "8"
 +++
 
 ## The Internet, has not Been Your Friend.
