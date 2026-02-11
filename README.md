@@ -1,4 +1,4 @@
-Timber Loving Care Website
+## README for shitass.life
 
 Hugo website utilizing hello-4s3ti for theme duty.
 
